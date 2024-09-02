@@ -1,0 +1,27 @@
+{
+    "sport": {
+        "game": 0.3573,
+        "england": 0.3191,
+        "win": 0.3074
+    },
+    "business": {
+        "firm": 0.2891,
+        "bank": 0.2697,
+        "market": 0.2616
+    },
+    "tech": {
+        "mobil": 0.3463,
+        "phone": 0.3319,
+        "softwar": 0.3152
+    },
+    "entertainment": {
+        "film": 0.7216,
+        "award": 0.4106,
+        "star": 0.408
+    },
+    "politics": {
+        "labour": 0.4511,
+        "elect": 0.4314,
+        "mr": 0.4204
+    }
+}
